@@ -1,0 +1,72 @@
+{
+    "guid": "597f78b6-db17-5304-1d72-ee52c608a3ec",
+    "source": "../../textures/T_Grid_Default_D.png",
+    "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+    "resolution": [
+        1024.0,
+        1024.0
+    ],
+    "preset": 3,
+    "usage_flags": 6,
+    "bc_data": {
+        "format": 131,
+        "mipmap_info": [
+            {
+                "level": 0,
+                "offset": 0,
+                "size": 524288
+            },
+            {
+                "level": 1,
+                "offset": 524288,
+                "size": 131072
+            },
+            {
+                "level": 2,
+                "offset": 655360,
+                "size": 32768
+            },
+            {
+                "level": 3,
+                "offset": 688128,
+                "size": 8192
+            },
+            {
+                "level": 4,
+                "offset": 696320,
+                "size": 2048
+            },
+            {
+                "level": 5,
+                "offset": 698368,
+                "size": 512
+            },
+            {
+                "level": 6,
+                "offset": 698880,
+                "size": 128
+            },
+            {
+                "level": 7,
+                "offset": 699008,
+                "size": 32
+            },
+            {
+                "level": 8,
+                "offset": 699040,
+                "size": 8
+            },
+            {
+                "level": 9,
+                "offset": 699048,
+                "size": 8
+            },
+            {
+                "level": 10,
+                "offset": 699056,
+                "size": 8
+            }
+        ]
+    },
+    "astc_data": {}
+}
