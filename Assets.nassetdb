@@ -1,7 +1,19 @@
 {
+    "1278f9b7-3c48-8185-cc5e-1b098934f370": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Metal.mtli.nasset"
+    },
+    "1954e66c-847a-f266-d341-af7bbf98f936": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Grid Dark.mtli.nasset"
+    },
     "1c30725e-703d-9777-ee98-ea544627c952": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Spaceship/Material Instances/Metal.mtli.nasset"
+    },
+    "23ddfe7f-cb55-6682-bdc5-0586ac681f48": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Metal Dark.mtli.nasset"
     },
     "2bce97e5-0497-4bd7-87c8-7f6928e8fe37": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -25,6 +37,14 @@
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Spaceship/Material Instances/Dark.mtli.nasset"
     },
+    "397c01be-0614-abbd-a04d-728d92cdfaea": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Metal Red.mtli.nasset"
+    },
+    "3e1e8d98-1cfc-da46-fd9b-8a5f1162f077": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Pipe.mtli.nasset"
+    },
     "40ddae5a-858c-897b-5199-54da71f5d7bc": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Scene/Material Instances/Purple Accent.mtli.nasset"
@@ -32,6 +52,10 @@
     "55251561-b43a-10b1-885b-71b88800be9f": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Scene/Material Instances/Metal.mtli.nasset"
+    },
+    "557c8f47-030b-0303-3f44-96ac2b60f8f5": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Grid_Default_D.tex.nasset"
     },
     "597f78b6-db17-5304-1d72-ee52c608a3ec": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -62,6 +86,14 @@
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Spaceship/Material Instances/Metal Dark.mtli.nasset"
     },
+    "71f5a30c-bda5-8aee-ef4c-c23ea52ff7f7": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Grid Default.mtli.nasset"
+    },
+    "77beb3f8-b71d-9bfd-af5a-7a133d522a30": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Purple_Grid_D.tex.nasset"
+    },
     "86e10cbc-e1f1-d26d-4067-0d24fedd2e69": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Spaceship/Material Instances/Dark.mtli.nasset"
@@ -74,6 +106,10 @@
     "8f23309e-0793-c237-aca1-148917d2d124": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Spaceship/Material Instances/Metal Red.mtli.nasset"
+    },
+    "991bbd6c-d277-b8f3-40d0-34b43ee8ef29": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Pickup.mtli.nasset"
     },
     "9a338049-10c7-5c7a-63b0-ca6695f6009f": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -116,6 +152,10 @@
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Spaceship/Material Instances/Metal.mtli.nasset"
     },
+    "e74b3028-c4a4-6d89-010e-93a47971ec29": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Dark.mtli.nasset"
+    },
     "e95160b5-9f01-a360-4319-88759e54333f": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Player/Thumbnails/Player.scene.nasset.tex.nasset"
@@ -125,6 +165,10 @@
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Player/Player.scene.nasset",
         "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f"
+    },
+    "f662e28e-2c02-a78e-e057-2a44534b7f1b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Dark_Grid_D.tex.nasset"
     },
     "f7772bf8-8ee0-a066-023f-fd581ce4a2cb": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
