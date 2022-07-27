@@ -1,10 +1,10 @@
 {
-    "guid": "595358f7-f540-7196-2adb-e5dfe68a82b0",
+    "guid": "ce3f5e27-83d6-2723-e5e9-c2ab4aff12b4",
     "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
     "material": "846a87e3-b738-4471-a336-bcac78e126b1",
     "descriptor_contents": [
         {
-            "texture": "f785ef36-a790-6e11-fd43-a699e369b94e",
+            "texture": "321771ef-5caf-637d-c600-827e3fcb36bd",
             "address_mode": 0
         }
     ],

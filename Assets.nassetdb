@@ -1,97 +1,93 @@
 {
-    "0736651d-7d63-2857-ac45-b6f8ee1a32c1": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/Metal Red.mtli.nasset"
+    "034914c1-52cb-6ed9-4518-4dc6dbd05c2b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Flying_Rings.scene.nasset/Spaceship.mesh.nasset/Spaceship Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
     },
-    "1278f9b7-3c48-8185-cc5e-1b098934f370": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/Metal.mtli.nasset"
+    "120d9e0a-ba2d-2c85-a25c-0ea0468056bb": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Flying_Rings.scene.nasset/Trim.mesh.nasset/Trim.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
     },
-    "16465970-51d0-39de-bbb9-2f1100fe6df5": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/Textures/T_Dark_Grid_D.tex.nasset"
+    "15d22ae9-68c7-5a70-5acc-2bc0f35b9531": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Flying_Rings.scene.nasset/Pickup.mesh.nasset/Pickup Pickup.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
     },
-    "1954e66c-847a-f266-d341-af7bbf98f936": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/Grid Dark.mtli.nasset"
-    },
-    "1c30725e-703d-9777-ee98-ea544627c952": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Spaceship/Material Instances/Metal.mtli.nasset"
-    },
-    "23ddfe7f-cb55-6682-bdc5-0586ac681f48": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/Metal Dark.mtli.nasset"
+    "244bff3d-3a05-8611-33c6-6b2333ec2d1a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Flying_Rings.scene.nasset/Spaceship.mesh.nasset/Spaceship Metal Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
     },
     "2bce97e5-0497-4bd7-87c8-7f6928e8fe37": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Cubemaps/SaschaRef/Brdf.tex.nasset"
     },
+    "2cb6faa0-b7e7-1801-826c-084da89e4f78": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Grid Default.mtli.nasset"
+    },
     "2e21c31b-c902-4528-82b9-f9eae578710c": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
         "path": "Assets/Flying Rings.scene.nasset"
     },
-    "3156f620-9bc2-7057-c75d-556fd36162ba": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/Grid Default.mtli.nasset"
-    },
-    "325ad60d-f67e-0b24-d952-6fae539e97e0": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Spaceship/Material Instances/Metal.mtli.nasset"
-    },
-    "33d5bd80-2524-e9b5-507e-f661ef3b2274": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/Metal Red.mtli.nasset"
-    },
-    "38a312ac-ac04-4ec6-5fde-0017e56b921c": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Spaceship/Material Instances/Dark.mtli.nasset"
-    },
-    "397c01be-0614-abbd-a04d-728d92cdfaea": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/Metal Red.mtli.nasset"
-    },
-    "3e1e8d98-1cfc-da46-fd9b-8a5f1162f077": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/Pipe.mtli.nasset"
-    },
-    "40498f50-d858-610c-97ef-f5c5c96b3625": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/Grid Dark.mtli.nasset"
-    },
-    "40ddae5a-858c-897b-5199-54da71f5d7bc": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/Purple Accent.mtli.nasset"
-    },
-    "4ccb5dfe-55d4-f632-b5af-cfa990b0d77f": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/Dark.mtli.nasset"
-    },
-    "55251561-b43a-10b1-885b-71b88800be9f": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/Metal.mtli.nasset"
-    },
-    "557c8f47-030b-0303-3f44-96ac2b60f8f5": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/Textures/T_Grid_Default_D.tex.nasset"
-    },
-    "595358f7-f540-7196-2adb-e5dfe68a82b0": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/Pipe.mtli.nasset"
-    },
-    "597f78b6-db17-5304-1d72-ee52c608a3ec": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/Textures/T_Grid_Default_D.tex.nasset"
-    },
-    "5bad2133-2445-5788-d470-7ad97def864b": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/Dark.mtli.nasset"
-    },
-    "5d05a212-993e-3ed7-eedb-62c5880f36df": {
+    "321771ef-5caf-637d-c600-827e3fcb36bd": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Scene/Textures/T_Purple_Grid_D.tex.nasset"
+    },
+    "43e3610b-28c0-6387-896c-fdf9eb003695": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Metal Dark.mtli.nasset"
+    },
+    "476083e8-e0e7-83c1-d3a1-bff8f08b70e2": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Flying_Rings.scene.nasset/Pickup.mesh.nasset/Pickup.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "57416aef-c8bf-2880-ff4c-93b90f385172": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Flying_Rings.scene.nasset/Spaceship.mesh.nasset/Spaceship Metal.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "5d15c164-4015-05c5-ce9c-f27b9f3bd4f9": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Flying_Rings.scene.nasset/Start Trim.mesh.nasset/Start Trim Grid Default.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "6651fbc5-7a35-3c02-2285-a0eb6ecaf0ce": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Flying_Rings.scene.nasset/Floor.mesh.nasset/Floor.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "677d4d70-1aa5-68f5-4f59-d70c7d4c835e": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Metal Red.mtli.nasset"
     },
     "699684be-374e-41fc-b502-bdbedbcb302d": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -102,99 +98,100 @@
         "assetTypeGuid": "dda212f1-b3e6-406b-b801-2079d4a65561",
         "path": "Assets/Physical Materials/Box.physmat.nasset"
     },
-    "7023e54d-ee0a-c6c2-5f2a-7292cbab8698": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/Metal.mtli.nasset"
+    "828bc827-e54c-48ab-a054-4493189ba168": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Flying_Rings.scene.nasset/Spaceship.mesh.nasset/Spaceship.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
     },
-    "70adfe13-9fff-50df-846a-0885b2651d5c": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Spaceship/Material Instances/Dark.mtli.nasset"
-    },
-    "70bbe6bb-fb8d-9206-fc46-37e76f03327b": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Spaceship/Material Instances/Metal Dark.mtli.nasset"
-    },
-    "71f5a30c-bda5-8aee-ef4c-c23ea52ff7f7": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/Grid Default.mtli.nasset"
-    },
-    "77beb3f8-b71d-9bfd-af5a-7a133d522a30": {
+    "8856ef69-d013-4587-de88-2203585123b6": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/Textures/T_Purple_Grid_D.tex.nasset"
-    },
-    "8233959d-f509-e964-2108-5856649d16e3": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/Textures/T_Grid_Default_D.tex.nasset"
-    },
-    "86e10cbc-e1f1-d26d-4067-0d24fedd2e69": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Spaceship/Material Instances/Dark.mtli.nasset"
+        "path": "Assets/Scene/Textures/T_Dark_Grid_D.tex.nasset"
     },
     "8b4d481d-1751-4727-8ba0-6a2ce7a674fa": {
         "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
         "path": "Project.nproject",
         "thumbnail": "f7772bf8-8ee0-a066-023f-fd581ce4a2cb"
     },
-    "8f23309e-0793-c237-aca1-148917d2d124": {
+    "a33b2712-24a2-65d6-5577-f048745d263d": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Spaceship/Material Instances/Metal Red.mtli.nasset"
+        "path": "Assets/Scene/Material Instances/Metal.mtli.nasset"
     },
-    "991bbd6c-d277-b8f3-40d0-34b43ee8ef29": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/Pickup.mtli.nasset"
-    },
-    "9a338049-10c7-5c7a-63b0-ca6695f6009f": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/Grid Dark.mtli.nasset"
-    },
-    "9d2bc680-6be2-c073-2692-296a38e52907": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/Metal Dark.mtli.nasset"
-    },
-    "9d4bb075-3f3d-ca11-e9a6-2e89036d2844": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Spaceship/Material Instances/Metal Dark.mtli.nasset"
-    },
-    "9e8c3800-109d-3e08-ab77-5e969d09a008": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Spaceship/Material Instances/Metal Red.mtli.nasset"
-    },
-    "9f6674f7-7773-c53a-af86-ee6fb0f5f589": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Spaceship/Material Instances/Metal Red.mtli.nasset"
-    },
-    "a28805f3-9997-3366-354a-dd22f88a6271": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Spaceship/Material Instances/Metal Dark.mtli.nasset"
-    },
-    "a8cdac03-c207-d9d9-411f-1fc0d79fe4a1": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/Pickup Green.mtli.nasset"
-    },
-    "b39ead65-43b2-38a3-3d4d-52b98bba2de5": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/Metal Dark.mtli.nasset"
-    },
-    "b5d816a6-038c-5874-848a-c0e125750ad1": {
+    "b061d3d4-9ce2-6c5f-2709-4b7609f9e135": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/Textures/T_Dark_Grid_D.tex.nasset"
+        "path": "Assets/Scene/Textures/T_Grid_Default_D.tex.nasset"
     },
-    "ca1fa28a-9083-fd18-e919-33c739f847ea": {
+    "ba43a772-b916-b6a8-0830-e47d433bde26": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Flying_Rings.scene.nasset/Start Trim.mesh.nasset/Start Trim.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "c4a34809-60c3-a8fc-0f3d-c2f40c39ae14": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/Pickup.mtli.nasset"
+        "path": "Assets/Scene/Material Instances/Dark.mtli.nasset"
+    },
+    "ce3f5e27-83d6-2723-e5e9-c2ab4aff12b4": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Pipe.mtli.nasset"
     },
     "d54d7a2b-3923-44a0-9de4-d71b080f5414": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Cubemaps/SaschaRef/Irradiance.tex.nasset"
     },
-    "d6b4d791-f4be-d025-d92a-7561ce501b45": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Spaceship/Material Instances/Metal.mtli.nasset"
+    "d79cf0df-1640-2a4f-dcfa-2e74b16954fb": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Flying_Rings.scene.nasset/Floor.mesh.nasset/Floor Grid Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
     },
-    "e74b3028-c4a4-6d89-010e-93a47971ec29": {
+    "d7b54ef4-f733-feb8-3df9-da4ba136dfe0": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/Dark.mtli.nasset"
+        "path": "Assets/Scene/Material Instances/Grid Dark.mtli.nasset"
+    },
+    "ddec06a1-b948-2150-90b3-4cb65d493232": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Flying_Rings.scene.nasset/Pipe.mesh.nasset/Pipe.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "df4db268-00f3-6f94-3056-ec7837346a81": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Flying_Rings.scene.nasset/Spaceship.mesh.nasset/Spaceship Metal Red.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "e05fb3aa-bd1b-b045-d458-9b191a8b53c3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Flying_Rings.scene.nasset/Trim.mesh.nasset/Trim Grid Default.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "e4c84a83-8d9a-1497-b260-93f259a37975": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Flying_Rings.scene.nasset/SC_Flying_Rings.scene.nasset"
+    },
+    "e6366729-e1cc-4ee8-e18d-63d57379b9c2": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Flying_Rings.scene.nasset/Pipe.mesh.nasset/Pipe Pipe.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
     },
     "e95160b5-9f01-a360-4319-88759e54333f": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -206,21 +203,13 @@
         "path": "Assets/Player/Player.scene.nasset",
         "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f"
     },
-    "f662e28e-2c02-a78e-e057-2a44534b7f1b": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/Textures/T_Dark_Grid_D.tex.nasset"
+    "f5f535e5-591b-98f2-977e-59d184a7bb4a": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Pickup.mtli.nasset"
     },
     "f7772bf8-8ee0-a066-023f-fd581ce4a2cb": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Thumbnail/Flying_Rings_Thumb.tex.nasset"
-    },
-    "f785ef36-a790-6e11-fd43-a699e369b94e": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/Textures/T_Purple_Grid_D.tex.nasset"
-    },
-    "fb970f87-0e05-a90b-8f9a-07013d596493": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/Grid Default.mtli.nasset"
     }
 }
