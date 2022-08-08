@@ -247,11 +247,7 @@
     "ddec06a1-b948-2150-90b3-4cb65d493232": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Flying_Rings.scene.nasset/Pipe.mesh.nasset/Pipe.mesh.nasset",
-        "thumbnail": "968bf786-8a29-7cc1-63da-45da044756f9",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
+        "path": "Assets/Scene/SC_Flying_Rings.scene.nasset/Pipe.mesh.nasset/Pipe.mesh.nasset"
     },
     "df4db268-00f3-6f94-3056-ec7837346a81": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
