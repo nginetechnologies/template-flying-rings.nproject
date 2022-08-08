@@ -1,0 +1,248 @@
+{
+    "guid": "620e0b4f-aad9-4574-b9e4-181ef3ebba07",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "274a0aea-93b9-4782-9dab-0b8feae2cd66",
+    "2a2bce0a-6314-481b-a5a0-7d01e1c00b35": {
+        "radius": 4096.0
+    },
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Tile 4"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "d231fb53-55e4-4e42-9c4c-247f813ff103",
+            "instanceGuid": "be5645d3-20e6-920e-3277-f8ec64d5564a",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "d231fb53-55e4-4e42-9c4c-247f813ff103": {
+                "targetTransform": {
+                    "scale": [
+                        0.0
+                    ]
+                }
+            },
+            "data_components": [
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0,
+                    "layer": 3,
+                    "body_flags": 1,
+                    "maximumAngularVelocity": 2700.0,
+                    "overriddenMass": 0.0
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "New Flying Rings Tile"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "be5645d3-20e6-920e-3277-f8ec64d5564a"
+                },
+                {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                    "tag": "8875fc7c-16b1-4ce2-8c61-23068fd43bff"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                    "instanceGuid": "1ef90170-dee1-6f9e-dd83-c267802a470f",
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "position": [
+                            0.0,
+                            18.0,
+                            8.4978
+                        ],
+                        "rotation": [
+                            0.0,
+                            -0.0,
+                            180.0
+                        ],
+                        "scale": [
+                            1.9999
+                        ],
+                        "flags": 16
+                    },
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "04 Pipe 02"
+                        },
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "1ef90170-dee1-6f9e-dd83-c267802a470f"
+                        }
+                    ],
+                    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                        "scene": "ddec06a1-b948-2150-90b3-4cb65d493232"
+                    }
+                },
+                {
+                    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                    "instanceGuid": "b7847ff5-2db0-44cc-cc7d-23affe13ba61",
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "position": [
+                            0.0,
+                            13.9051,
+                            8.4978
+                        ],
+                        "rotation": [
+                            0.0,
+                            -0.0,
+                            180.0
+                        ],
+                        "flags": 16
+                    },
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "04 Pipe 01"
+                        },
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "b7847ff5-2db0-44cc-cc7d-23affe13ba61"
+                        }
+                    ],
+                    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                        "scene": "ddec06a1-b948-2150-90b3-4cb65d493232"
+                    }
+                },
+                {
+                    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                    "instanceGuid": "b22e7f91-9d4d-d4a7-8a9a-e82dd0de903d",
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "position": [
+                            0.0,
+                            18.0,
+                            8.4978
+                        ],
+                        "rotation": [
+                            0.0,
+                            -0.0,
+                            180.0
+                        ],
+                        "flags": 16
+                    },
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "04 Pickup 01"
+                        },
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "b22e7f91-9d4d-d4a7-8a9a-e82dd0de903d"
+                        }
+                    ],
+                    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                        "scene": "476083e8-e0e7-83c1-d3a1-bff8f08b70e2"
+                    }
+                },
+                {
+                    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                    "instanceGuid": "58aa38ee-a434-cb1d-88f6-2769a3d77386",
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "position": [
+                            0.0,
+                            0.0,
+                            0.0
+                        ],
+                        "rotation": [
+                            0.0,
+                            -0.0,
+                            -180.0
+                        ],
+                        "flags": 16
+                    },
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Floor"
+                        },
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "58aa38ee-a434-cb1d-88f6-2769a3d77386"
+                        }
+                    ],
+                    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                        "scene": "6651fbc5-7a35-3c02-2285-a0eb6ecaf0ce"
+                    }
+                },
+                {
+                    "typeGuid": "e81f4e62-fee0-4182-9c1a-a47c053b813f",
+                    "instanceGuid": "88767f25-76a1-b067-d090-3fe0d99579c9",
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "position": [
+                            0.0,
+                            18.0,
+                            9.385
+                        ]
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    },
+                    "e81f4e62-fee0-4182-9c1a-a47c053b813f": {
+                        "size": [
+                            8.0,
+                            18.0,
+                            10.0
+                        ],
+                        "half_extent": [
+                            8.0,
+                            18.0,
+                            10.0
+                        ]
+                    },
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "New Box Collider"
+                        },
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "88767f25-76a1-b067-d090-3fe0d99579c9"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "default_camera": {
+        "position": [
+            92.7289,
+            -13.853,
+            26.0418
+        ],
+        "rotation": [
+            -20.7505,
+            0.0,
+            96.658
+        ],
+        "fieldOfView": 60.0,
+        "nearPlane": 0.0098,
+        "farPlane": 128.0
+    },
+    "grid": {
+        "position": [
+            0.0,
+            0.4084,
+            0.0
+        ],
+        "scale": [
+            1.0,
+            -1.0,
+            1.0
+        ]
+    },
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "620e0b4f-aad9-4574-b9e4-181ef3ebba07"
+    }
+}

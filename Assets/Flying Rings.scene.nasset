@@ -7,28 +7,22 @@
     },
     "data_components": [
         {
-            "typeGuid": "64215a37-64a6-45bd-ba87-10abe74da0f9"
+            "typeGuid": "b92fab7e-4000-4048-a262-f16b3b840279",
+            "direction": [
+                0.0,
+                1.0,
+                0.0
+            ],
+            "tileAssets": [
+                "a130831a-8427-426d-a562-59e2fb744064",
+                "1b483af2-abbc-42f8-97c1-33e2b9fc1dc6",
+                "9cf37c93-f85d-4010-aeae-ea66231e8a4a",
+                "620e0b4f-aad9-4574-b9e4-181ef3ebba07",
+                "05c88f91-3642-4a66-9dc8-a201b512edd4"
+            ]
         }
     ],
     "children": [
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "007ee408-9c9e-7c60-7f9e-f7938ba3280c",
-            "data_components": [
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "007ee408-9c9e-7c60-7f9e-f7938ba3280c"
-                },
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Scene",
-                    "flags": 4
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "e4c84a83-8d9a-1497-b260-93f259a37975"
-            }
-        },
         {
             "typeGuid": "8f32c5fc-bac8-4d50-97df-bdf0be0ad32e",
             "instanceGuid": "59ee1ac2-c4c3-18c2-32b4-527f2c2e8032",
@@ -36,12 +30,12 @@
                 "position": [
                     3.2569,
                     4.0131,
-                    2.9938
+                    2.9937
                 ],
                 "rotation": [
-                    -45.0124,
-                    0.0,
-                    -135.0
+                    -45.0065,
+                    -0.0006,
+                    -134.9971
                 ]
             },
             "9f750482-b822-4d4b-be6a-9c135c614328": {
@@ -63,14 +57,15 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "59ee1ac2-c4c3-18c2-32b4-527f2c2e8032"
-                },
-                {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                    "tag": "13ca71b8-d868-4f7c-a0bb-c7585db11327",
                     "mask": [
                         "13ca71b8-d868-4f7c-a0bb-c7585db11327"
                     ]
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "59ee1ac2-c4c3-18c2-32b4-527f2c2e8032"
                 },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -81,26 +76,20 @@
         {
             "typeGuid": "88a0cdbb-2826-46e3-b372-2a5154eacb61",
             "instanceGuid": "d3f8c605-fcfb-7875-d708-d957a810e116",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
             "88a0cdbb-2826-46e3-b372-2a5154eacb61": {
                 "asset": "ec66ce19-1e67-478b-a8e6-07b9cf74df4c"
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "d3f8c605-fcfb-7875-d708-d957a810e116"
-                },
-                {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                    "tag": "997e9c4d-d494-4a6e-bb6c-620ced5fabde",
                     "mask": [
                         "997e9c4d-d494-4a6e-bb6c-620ced5fabde"
                     ]
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "d3f8c605-fcfb-7875-d708-d957a810e116"
                 },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -113,12 +102,12 @@
             "instanceGuid": "59ee1ac2-c4c3-18c2-32b4-527f2c2e8032",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
-                    -25.1404,
+                    -25.1403,
                     55.686,
-                    11.3047
+                    11.3044
                 ],
                 "rotation": [
-                    -45.0124,
+                    -44.9696,
                     0.0,
                     0.0
                 ]
@@ -137,14 +126,15 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "59ee1ac2-c4c3-18c2-32b4-527f2c2e8032"
-                },
-                {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                    "tag": "13ca71b8-d868-4f7c-a0bb-c7585db11327",
                     "mask": [
                         "13ca71b8-d868-4f7c-a0bb-c7585db11327"
                     ]
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "59ee1ac2-c4c3-18c2-32b4-527f2c2e8032"
                 },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -173,48 +163,2330 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "f695b7d2-b906-4085-5b54-71c0ed7599b6"
-                },
-                {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                    "tag": "13ca71b8-d868-4f7c-a0bb-c7585db11327",
                     "mask": [
                         "13ca71b8-d868-4f7c-a0bb-c7585db11327"
                     ]
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "f695b7d2-b906-4085-5b54-71c0ed7599b6"
                 },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Skysphere"
                 }
             ]
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "ebb36163-88a0-98f4-215f-dee4f1c57cbc",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.0,
+                    0.9713,
+                    -8.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "ebb36163-88a0-98f4-215f-dee4f1c57cbc"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tile3"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "d231fb53-55e4-4e42-9c4c-247f813ff103",
+                    "instanceGuid": "53c4398b-9f4f-478e-1417-e9c59379ae6f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "be5645d3-20e6-920e-3277-f8ec64d5564a"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "55695830-57f9-6b11-b2fb-81a33ebd3ee4",
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "flags": 16
+                            },
+                            "data_components": [
+                                {
+                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                    "templateInstanceGuid": "89e9f1b4-0300-de3c-20b9-c7952439ff6a"
+                                }
+                            ],
+                            "children": [
+                                {
+                                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                                    "instanceGuid": "d09dc9d7-1645-cc4a-15f5-88fafa9e5204",
+                                    "data_components": [
+                                        {
+                                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                            "templateInstanceGuid": "30415818-0f33-888d-8e7e-81deb140561e"
+                                        }
+                                    ],
+                                    "children": [
+                                        {
+                                            "typeGuid": "bb15f0a1-1644-44b2-9f6c-4c09ec7c7370",
+                                            "instanceGuid": "35037189-7965-344e-bf44-66827e698f74",
+                                            "data_components": [
+                                                {
+                                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                                    "templateInstanceGuid": "8949adc1-4a92-7713-0ffa-23a7e548c1ec"
+                                                }
+                                            ],
+                                            "children": [
+                                                {
+                                                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                                                    "instanceGuid": "29aab1db-a96c-4e1f-db9e-4811fe3d0ccb",
+                                                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                                                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                                                    },
+                                                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                                                        "mesh": "e6366729-e1cc-4ee8-e18d-63d57379b9c2"
+                                                    },
+                                                    "data_components": [
+                                                        {
+                                                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                                            "templateInstanceGuid": "82c191d6-b8ae-a5bf-5d83-98c1f2ced623"
+                                                        },
+                                                        {
+                                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                                            "name": "Pipe Pipe Collider"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "c383dfab-3f49-fbd7-f404-c570071a805b",
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "flags": 16
+                            },
+                            "data_components": [
+                                {
+                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                    "templateInstanceGuid": "adf5caec-e155-7cb7-1454-1ce4ec4d7ef4"
+                                }
+                            ],
+                            "children": [
+                                {
+                                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                                    "instanceGuid": "cbbd9bbf-40cd-cf2f-8979-380953bde80c",
+                                    "data_components": [
+                                        {
+                                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                            "templateInstanceGuid": "30415818-0f33-888d-8e7e-81deb140561e"
+                                        }
+                                    ],
+                                    "children": [
+                                        {
+                                            "typeGuid": "bb15f0a1-1644-44b2-9f6c-4c09ec7c7370",
+                                            "instanceGuid": "6224129d-ed50-b44a-c0a3-b41c471c52ab",
+                                            "data_components": [
+                                                {
+                                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                                    "templateInstanceGuid": "8949adc1-4a92-7713-0ffa-23a7e548c1ec"
+                                                }
+                                            ],
+                                            "children": [
+                                                {
+                                                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                                                    "instanceGuid": "05209397-59cc-b50c-39e9-4bfb68ea1813",
+                                                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                                                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                                                    },
+                                                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                                                        "mesh": "e6366729-e1cc-4ee8-e18d-63d57379b9c2"
+                                                    },
+                                                    "data_components": [
+                                                        {
+                                                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                                            "templateInstanceGuid": "82c191d6-b8ae-a5bf-5d83-98c1f2ced623"
+                                                        },
+                                                        {
+                                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                                            "name": "Pipe Pipe Collider"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "128630f7-c9a8-3c43-5fb9-0fd59fde5f7a",
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "flags": 16
+                            },
+                            "data_components": [
+                                {
+                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                    "templateInstanceGuid": "9e5b7cca-f898-f5e7-9ac6-8c3922a12ac8"
+                                }
+                            ],
+                            "children": [
+                                {
+                                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                                    "instanceGuid": "8cf2eed6-463e-4f6f-0dfc-ff5800ce4f53",
+                                    "data_components": [
+                                        {
+                                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                            "templateInstanceGuid": "30415818-0f33-888d-8e7e-81deb140561e"
+                                        }
+                                    ],
+                                    "children": [
+                                        {
+                                            "typeGuid": "bb15f0a1-1644-44b2-9f6c-4c09ec7c7370",
+                                            "instanceGuid": "d9659061-5b5c-0a87-6d5a-a5c100aa686b",
+                                            "data_components": [
+                                                {
+                                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                                    "templateInstanceGuid": "8949adc1-4a92-7713-0ffa-23a7e548c1ec"
+                                                }
+                                            ],
+                                            "children": [
+                                                {
+                                                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                                                    "instanceGuid": "5b7141f1-57b3-2a09-03e6-d0dc3668aa1e",
+                                                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                                                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                                                    },
+                                                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                                                        "mesh": "e6366729-e1cc-4ee8-e18d-63d57379b9c2"
+                                                    },
+                                                    "data_components": [
+                                                        {
+                                                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                                            "templateInstanceGuid": "82c191d6-b8ae-a5bf-5d83-98c1f2ced623"
+                                                        },
+                                                        {
+                                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                                            "name": "Pipe Pipe Collider"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "fe34dd07-7b5f-b7c2-029c-3b84e9580956",
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "flags": 16
+                            },
+                            "data_components": [
+                                {
+                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                    "templateInstanceGuid": "1d4e33ab-ec99-2116-1dff-35ae40ac7bf0"
+                                }
+                            ]
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "c32db108-bf15-44e1-f4f3-dbe254a197c3",
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "flags": 16
+                            },
+                            "data_components": [
+                                {
+                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                    "templateInstanceGuid": "58aa38ee-a434-cb1d-88f6-2769a3d77386"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "9cf37c93-f85d-4010-aeae-ea66231e8a4a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e4c18154-ac12-c639-3106-56ea4ad7698f",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.0,
+                    36.9249,
+                    -8.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "e4c18154-ac12-c639-3106-56ea4ad7698f"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tile4"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "d231fb53-55e4-4e42-9c4c-247f813ff103",
+                    "instanceGuid": "c2bc4779-ca9b-924c-c122-22e021390e9d",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "be5645d3-20e6-920e-3277-f8ec64d5564a"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "d72b8b4a-34b8-4997-4c74-0a1d50170d0b",
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "flags": 16
+                            },
+                            "data_components": [
+                                {
+                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                    "templateInstanceGuid": "1ef90170-dee1-6f9e-dd83-c267802a470f"
+                                }
+                            ],
+                            "children": [
+                                {
+                                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                                    "instanceGuid": "58cd0e99-b20c-4a23-3513-3308f39c13e8",
+                                    "data_components": [
+                                        {
+                                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                            "templateInstanceGuid": "30415818-0f33-888d-8e7e-81deb140561e"
+                                        }
+                                    ],
+                                    "children": [
+                                        {
+                                            "typeGuid": "bb15f0a1-1644-44b2-9f6c-4c09ec7c7370",
+                                            "instanceGuid": "a8f85b20-883b-e49d-c4cd-3769fe730194",
+                                            "data_components": [
+                                                {
+                                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                                    "templateInstanceGuid": "8949adc1-4a92-7713-0ffa-23a7e548c1ec"
+                                                }
+                                            ],
+                                            "children": [
+                                                {
+                                                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                                                    "instanceGuid": "088f27d3-2cdf-54e7-6d96-ca0cc194a392",
+                                                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                                                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                                                    },
+                                                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                                                        "mesh": "e6366729-e1cc-4ee8-e18d-63d57379b9c2"
+                                                    },
+                                                    "data_components": [
+                                                        {
+                                                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                                            "templateInstanceGuid": "82c191d6-b8ae-a5bf-5d83-98c1f2ced623"
+                                                        },
+                                                        {
+                                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                                            "name": "Pipe Pipe Collider"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "ee1356ea-8c8a-c723-faf9-d3cfb5f42953",
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "flags": 16
+                            },
+                            "data_components": [
+                                {
+                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                    "templateInstanceGuid": "b7847ff5-2db0-44cc-cc7d-23affe13ba61"
+                                }
+                            ],
+                            "children": [
+                                {
+                                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                                    "instanceGuid": "28bf29da-26c4-4d5e-99de-3fc6b7c1ebb9",
+                                    "data_components": [
+                                        {
+                                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                            "templateInstanceGuid": "30415818-0f33-888d-8e7e-81deb140561e"
+                                        }
+                                    ],
+                                    "children": [
+                                        {
+                                            "typeGuid": "bb15f0a1-1644-44b2-9f6c-4c09ec7c7370",
+                                            "instanceGuid": "c9cf4726-070f-3879-993c-079400e638ff",
+                                            "data_components": [
+                                                {
+                                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                                    "templateInstanceGuid": "8949adc1-4a92-7713-0ffa-23a7e548c1ec"
+                                                }
+                                            ],
+                                            "children": [
+                                                {
+                                                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                                                    "instanceGuid": "9399ba3c-fdad-f789-9f83-13c784ac04f2",
+                                                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                                                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                                                    },
+                                                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                                                        "mesh": "e6366729-e1cc-4ee8-e18d-63d57379b9c2"
+                                                    },
+                                                    "data_components": [
+                                                        {
+                                                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                                            "templateInstanceGuid": "82c191d6-b8ae-a5bf-5d83-98c1f2ced623"
+                                                        },
+                                                        {
+                                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                                            "name": "Pipe Pipe Collider"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "9e0605f7-9575-83a7-1154-9615eed325d7",
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "flags": 16
+                            },
+                            "data_components": [
+                                {
+                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                    "templateInstanceGuid": "b22e7f91-9d4d-d4a7-8a9a-e82dd0de903d"
+                                }
+                            ]
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "4bed7f7f-8c03-a9b8-502a-07136be2b538",
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "flags": 16
+                            },
+                            "data_components": [
+                                {
+                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                    "templateInstanceGuid": "58aa38ee-a434-cb1d-88f6-2769a3d77386"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "620e0b4f-aad9-4574-b9e4-181ef3ebba07"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "7d4c1926-54f5-3f48-4958-234a3df1531a",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.0,
+                    72.9054,
+                    -8.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "7d4c1926-54f5-3f48-4958-234a3df1531a"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tile2"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "d231fb53-55e4-4e42-9c4c-247f813ff103",
+                    "instanceGuid": "7b4050dc-2537-d2ea-8f12-fc21766a8632",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "be5645d3-20e6-920e-3277-f8ec64d5564a"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "887e4f86-bf61-fa36-2e26-7c94ef6db63a",
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "flags": 16
+                            },
+                            "data_components": [
+                                {
+                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                    "templateInstanceGuid": "d81735cc-0c8d-6140-bc9a-c45e4fba0254"
+                                }
+                            ]
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "d74b0e40-8e2e-5f6f-05c9-529da63243d2",
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "flags": 16
+                            },
+                            "data_components": [
+                                {
+                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                    "templateInstanceGuid": "7b582aa1-1b6f-5e7a-b24b-e0d23fde2fad"
+                                }
+                            ]
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "fed65217-2477-93f3-9daf-c0bd593611bc",
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "flags": 16
+                            },
+                            "data_components": [
+                                {
+                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                    "templateInstanceGuid": "15359650-bf3e-6ba1-8ede-eed1db78d82f"
+                                }
+                            ],
+                            "children": [
+                                {
+                                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                                    "instanceGuid": "d22cb0a5-338c-ab92-7afe-f39dbf3ccdde",
+                                    "data_components": [
+                                        {
+                                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                            "templateInstanceGuid": "30415818-0f33-888d-8e7e-81deb140561e"
+                                        }
+                                    ],
+                                    "children": [
+                                        {
+                                            "typeGuid": "bb15f0a1-1644-44b2-9f6c-4c09ec7c7370",
+                                            "instanceGuid": "7403f27b-71d6-67ed-3fec-7ecacc6ac3a6",
+                                            "data_components": [
+                                                {
+                                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                                    "templateInstanceGuid": "8949adc1-4a92-7713-0ffa-23a7e548c1ec"
+                                                }
+                                            ],
+                                            "children": [
+                                                {
+                                                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                                                    "instanceGuid": "fd05b716-9c74-8a5b-b5ff-96bb10620c60",
+                                                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                                                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                                                    },
+                                                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                                                        "mesh": "e6366729-e1cc-4ee8-e18d-63d57379b9c2"
+                                                    },
+                                                    "data_components": [
+                                                        {
+                                                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                                            "templateInstanceGuid": "82c191d6-b8ae-a5bf-5d83-98c1f2ced623"
+                                                        },
+                                                        {
+                                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                                            "name": "Pipe Pipe Collider"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "6743003c-3d3d-d041-7004-e3b0d4c22985",
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "flags": 16
+                            },
+                            "data_components": [
+                                {
+                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                    "templateInstanceGuid": "e98b0abf-82e2-34e4-b5d9-796f3429ee82"
+                                }
+                            ],
+                            "children": [
+                                {
+                                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                                    "instanceGuid": "f558b139-e324-c732-62d6-ca9cf3ca66d4",
+                                    "data_components": [
+                                        {
+                                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                            "templateInstanceGuid": "30415818-0f33-888d-8e7e-81deb140561e"
+                                        }
+                                    ],
+                                    "children": [
+                                        {
+                                            "typeGuid": "bb15f0a1-1644-44b2-9f6c-4c09ec7c7370",
+                                            "instanceGuid": "5744b47e-599f-3302-b526-6348d007825f",
+                                            "data_components": [
+                                                {
+                                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                                    "templateInstanceGuid": "8949adc1-4a92-7713-0ffa-23a7e548c1ec"
+                                                }
+                                            ],
+                                            "children": [
+                                                {
+                                                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                                                    "instanceGuid": "c5f8a897-bbf5-0d3f-190c-bbf7465765da",
+                                                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                                                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                                                    },
+                                                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                                                        "mesh": "e6366729-e1cc-4ee8-e18d-63d57379b9c2"
+                                                    },
+                                                    "data_components": [
+                                                        {
+                                                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                                            "templateInstanceGuid": "82c191d6-b8ae-a5bf-5d83-98c1f2ced623"
+                                                        },
+                                                        {
+                                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                                            "name": "Pipe Pipe Collider"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "278170ef-b38d-da13-1bbe-b2499e68e6dc",
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "flags": 16
+                            },
+                            "data_components": [
+                                {
+                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                    "templateInstanceGuid": "2193c286-0733-016f-d4bd-f65cecc1ca3f"
+                                }
+                            ],
+                            "children": [
+                                {
+                                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                                    "instanceGuid": "925938e5-c2a0-d284-b790-f6f7e2b65544",
+                                    "data_components": [
+                                        {
+                                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                            "templateInstanceGuid": "30415818-0f33-888d-8e7e-81deb140561e"
+                                        }
+                                    ],
+                                    "children": [
+                                        {
+                                            "typeGuid": "bb15f0a1-1644-44b2-9f6c-4c09ec7c7370",
+                                            "instanceGuid": "7e2797e0-8ec1-1d77-42bc-a209153ec47c",
+                                            "data_components": [
+                                                {
+                                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                                    "templateInstanceGuid": "8949adc1-4a92-7713-0ffa-23a7e548c1ec"
+                                                }
+                                            ],
+                                            "children": [
+                                                {
+                                                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                                                    "instanceGuid": "43a6262a-19eb-2653-42ab-d64fc0e4a58e",
+                                                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                                                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                                                    },
+                                                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                                                        "mesh": "e6366729-e1cc-4ee8-e18d-63d57379b9c2"
+                                                    },
+                                                    "data_components": [
+                                                        {
+                                                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                                            "templateInstanceGuid": "82c191d6-b8ae-a5bf-5d83-98c1f2ced623"
+                                                        },
+                                                        {
+                                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                                            "name": "Pipe Pipe Collider"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "f05609ea-1f36-2eed-023b-dedbe0108afd",
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "flags": 16
+                            },
+                            "data_components": [
+                                {
+                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                    "templateInstanceGuid": "58aa38ee-a434-cb1d-88f6-2769a3d77386"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "1b483af2-abbc-42f8-97c1-33e2b9fc1dc6"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "7075b4b4-f890-fd64-e350-90b652403ad5",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    2.4319,
+                    108.8878,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "7075b4b4-f890-fd64-e350-90b652403ad5"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "1d4e33ab-ec99-2116-1dff-35ae40ac7bf0",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "89e9f1b4-0300-de3c-20b9-c7952439ff6a",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "58aa38ee-a434-cb1d-88f6-2769a3d77386",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "be5645d3-20e6-920e-3277-f8ec64d5564a",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "adf5caec-e155-7cb7-1454-1ce4ec4d7ef4",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "88767f25-76a1-b067-d090-3fe0d99579c9",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "9e5b7cca-f898-f5e7-9ac6-8c3922a12ac8",
+                            "flags": 2
+                        }
+                    ]
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "9cf37c93-f85d-4010-aeae-ea66231e8a4a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "2d0b27ec-c7f1-4b1b-b82a-46bccb220b22",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    2.4319,
+                    144.8703,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "2d0b27ec-c7f1-4b1b-b82a-46bccb220b22"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "7b582aa1-1b6f-5e7a-b24b-e0d23fde2fad",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "be5645d3-20e6-920e-3277-f8ec64d5564a",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "d81735cc-0c8d-6140-bc9a-c45e4fba0254",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "88767f25-76a1-b067-d090-3fe0d99579c9",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "15359650-bf3e-6ba1-8ede-eed1db78d82f",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "e98b0abf-82e2-34e4-b5d9-796f3429ee82",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "58aa38ee-a434-cb1d-88f6-2769a3d77386",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "2193c286-0733-016f-d4bd-f65cecc1ca3f",
+                            "flags": 2
+                        }
+                    ]
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "1b483af2-abbc-42f8-97c1-33e2b9fc1dc6"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "cc6d3e41-8fd6-740c-2f78-726b8c37e9ac",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    2.4319,
+                    180.8526,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "cc6d3e41-8fd6-740c-2f78-726b8c37e9ac"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "c8f3d72c-1ebe-1f4d-d769-381e01d7a941",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "be5645d3-20e6-920e-3277-f8ec64d5564a",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "88767f25-76a1-b067-d090-3fe0d99579c9",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "627fc5a3-6bdf-944e-257f-59b6e1d6747e",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "8f543c17-5399-9e46-3c55-c47e1f87b9b0",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "58aa38ee-a434-cb1d-88f6-2769a3d77386",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "0afd3700-409d-1ded-fbf8-6ffbff02356d",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "bc0b68c3-1765-dd60-e1c8-05ec757951e5",
+                            "flags": 2
+                        }
+                    ]
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "05c88f91-3642-4a66-9dc8-a201b512edd4"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "d78e63f6-7ef6-5752-3e49-9b7421b51485",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    2.4319,
+                    199.6228,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "d78e63f6-7ef6-5752-3e49-9b7421b51485"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "4e430cf2-532d-d542-02db-acefe0c69730",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "c6ad6b87-0700-8a83-903f-a43c8ac1296a",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "be5645d3-20e6-920e-3277-f8ec64d5564a",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "91ff4522-c26f-4ef2-c389-361f88d26497",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "58aa38ee-a434-cb1d-88f6-2769a3d77386",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "88767f25-76a1-b067-d090-3fe0d99579c9",
+                            "flags": 2
+                        }
+                    ]
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a130831a-8427-426d-a562-59e2fb744064"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0b5947b5-c085-a19a-07f8-587b68c4c07f",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    2.4319,
+                    199.5265,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "0b5947b5-c085-a19a-07f8-587b68c4c07f"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "1d4e33ab-ec99-2116-1dff-35ae40ac7bf0",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "89e9f1b4-0300-de3c-20b9-c7952439ff6a",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "58aa38ee-a434-cb1d-88f6-2769a3d77386",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "be5645d3-20e6-920e-3277-f8ec64d5564a",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "adf5caec-e155-7cb7-1454-1ce4ec4d7ef4",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "88767f25-76a1-b067-d090-3fe0d99579c9",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "9e5b7cca-f898-f5e7-9ac6-8c3922a12ac8",
+                            "flags": 2
+                        }
+                    ]
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "9cf37c93-f85d-4010-aeae-ea66231e8a4a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b2d7d1a7-f483-7d41-b497-71ac51ecff64",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    2.4319,
+                    199.501,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "b2d7d1a7-f483-7d41-b497-71ac51ecff64"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "be5645d3-20e6-920e-3277-f8ec64d5564a",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "d81735cc-0c8d-6140-bc9a-c45e4fba0254",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "88767f25-76a1-b067-d090-3fe0d99579c9",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "15359650-bf3e-6ba1-8ede-eed1db78d82f",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "e98b0abf-82e2-34e4-b5d9-796f3429ee82",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "2193c286-0733-016f-d4bd-f65cecc1ca3f",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "58aa38ee-a434-cb1d-88f6-2769a3d77386",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "7b582aa1-1b6f-5e7a-b24b-e0d23fde2fad",
+                            "flags": 2
+                        }
+                    ]
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "1b483af2-abbc-42f8-97c1-33e2b9fc1dc6"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f163a2c2-cce1-3044-2a92-92bd4b59c7ba",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    2.4319,
+                    199.6015,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "f163a2c2-cce1-3044-2a92-92bd4b59c7ba"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "bc0b68c3-1765-dd60-e1c8-05ec757951e5",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "be5645d3-20e6-920e-3277-f8ec64d5564a",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "88767f25-76a1-b067-d090-3fe0d99579c9",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "8f543c17-5399-9e46-3c55-c47e1f87b9b0",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "627fc5a3-6bdf-944e-257f-59b6e1d6747e",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "58aa38ee-a434-cb1d-88f6-2769a3d77386",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "c8f3d72c-1ebe-1f4d-d769-381e01d7a941",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "0afd3700-409d-1ded-fbf8-6ffbff02356d",
+                            "flags": 2
+                        }
+                    ]
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "05c88f91-3642-4a66-9dc8-a201b512edd4"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "8bdd689a-d7b0-8f09-545b-34324e03630c",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    2.4319,
+                    199.0735,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "8bdd689a-d7b0-8f09-545b-34324e03630c"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "4e430cf2-532d-d542-02db-acefe0c69730",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "c6ad6b87-0700-8a83-903f-a43c8ac1296a",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "be5645d3-20e6-920e-3277-f8ec64d5564a",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "91ff4522-c26f-4ef2-c389-361f88d26497",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "58aa38ee-a434-cb1d-88f6-2769a3d77386",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "88767f25-76a1-b067-d090-3fe0d99579c9",
+                            "flags": 2
+                        }
+                    ]
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a130831a-8427-426d-a562-59e2fb744064"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "fd2e164e-c8ac-17ea-ed4c-3b3141cac0fa",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    2.4319,
+                    199.0213,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "fd2e164e-c8ac-17ea-ed4c-3b3141cac0fa"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "4e430cf2-532d-d542-02db-acefe0c69730",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "c6ad6b87-0700-8a83-903f-a43c8ac1296a",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "be5645d3-20e6-920e-3277-f8ec64d5564a",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "91ff4522-c26f-4ef2-c389-361f88d26497",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "58aa38ee-a434-cb1d-88f6-2769a3d77386",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "88767f25-76a1-b067-d090-3fe0d99579c9",
+                            "flags": 2
+                        }
+                    ]
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a130831a-8427-426d-a562-59e2fb744064"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "d89185f6-9ecb-6234-9102-5fb99d7e4115",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    2.4319,
+                    199.1049,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "d89185f6-9ecb-6234-9102-5fb99d7e4115"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "4e430cf2-532d-d542-02db-acefe0c69730",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "c6ad6b87-0700-8a83-903f-a43c8ac1296a",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "be5645d3-20e6-920e-3277-f8ec64d5564a",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "91ff4522-c26f-4ef2-c389-361f88d26497",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "58aa38ee-a434-cb1d-88f6-2769a3d77386",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "88767f25-76a1-b067-d090-3fe0d99579c9",
+                            "flags": 2
+                        }
+                    ]
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a130831a-8427-426d-a562-59e2fb744064"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f8973295-75ca-d221-b115-f073696bb75e",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    2.4319,
+                    198.9877,
+                    0.0
+                ],
+                "scale": [
+                    0.9993
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "f8973295-75ca-d221-b115-f073696bb75e"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "1ef90170-dee1-6f9e-dd83-c267802a470f",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "b7847ff5-2db0-44cc-cc7d-23affe13ba61",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "be5645d3-20e6-920e-3277-f8ec64d5564a",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "58aa38ee-a434-cb1d-88f6-2769a3d77386",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "88767f25-76a1-b067-d090-3fe0d99579c9",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "b22e7f91-9d4d-d4a7-8a9a-e82dd0de903d",
+                            "flags": 2
+                        }
+                    ]
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "620e0b4f-aad9-4574-b9e4-181ef3ebba07"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1fe78050-bf44-6ca6-0bbd-d8e72e235d53",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    2.4319,
+                    199.0196,
+                    0.0
+                ],
+                "scale": [
+                    0.9991
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "1fe78050-bf44-6ca6-0bbd-d8e72e235d53"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "1d4e33ab-ec99-2116-1dff-35ae40ac7bf0",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "89e9f1b4-0300-de3c-20b9-c7952439ff6a",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "58aa38ee-a434-cb1d-88f6-2769a3d77386",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "be5645d3-20e6-920e-3277-f8ec64d5564a",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "adf5caec-e155-7cb7-1454-1ce4ec4d7ef4",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "88767f25-76a1-b067-d090-3fe0d99579c9",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "9e5b7cca-f898-f5e7-9ac6-8c3922a12ac8",
+                            "flags": 2
+                        }
+                    ]
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "9cf37c93-f85d-4010-aeae-ea66231e8a4a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "837a8419-ebc1-9111-82a5-87125c05325d",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    2.4319,
+                    198.9501,
+                    0.0
+                ],
+                "scale": [
+                    0.9991
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "837a8419-ebc1-9111-82a5-87125c05325d"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "be5645d3-20e6-920e-3277-f8ec64d5564a",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "d81735cc-0c8d-6140-bc9a-c45e4fba0254",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "88767f25-76a1-b067-d090-3fe0d99579c9",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "15359650-bf3e-6ba1-8ede-eed1db78d82f",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "2193c286-0733-016f-d4bd-f65cecc1ca3f",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "58aa38ee-a434-cb1d-88f6-2769a3d77386",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "e98b0abf-82e2-34e4-b5d9-796f3429ee82",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "7b582aa1-1b6f-5e7a-b24b-e0d23fde2fad",
+                            "flags": 2
+                        }
+                    ]
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "1b483af2-abbc-42f8-97c1-33e2b9fc1dc6"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "bdf27cf0-b121-6e70-0ce9-79d6a2942d02",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    2.4319,
+                    198.4046,
+                    0.0
+                ],
+                "scale": [
+                    0.9991
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "bdf27cf0-b121-6e70-0ce9-79d6a2942d02"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "bc0b68c3-1765-dd60-e1c8-05ec757951e5",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "be5645d3-20e6-920e-3277-f8ec64d5564a",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "88767f25-76a1-b067-d090-3fe0d99579c9",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "8f543c17-5399-9e46-3c55-c47e1f87b9b0",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "627fc5a3-6bdf-944e-257f-59b6e1d6747e",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "58aa38ee-a434-cb1d-88f6-2769a3d77386",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "c8f3d72c-1ebe-1f4d-d769-381e01d7a941",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "0afd3700-409d-1ded-fbf8-6ffbff02356d",
+                            "flags": 2
+                        }
+                    ]
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "05c88f91-3642-4a66-9dc8-a201b512edd4"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "83f19268-d31a-1199-1515-772251376cf5",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    2.4319,
+                    198.4732,
+                    0.0
+                ],
+                "scale": [
+                    0.9991
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "83f19268-d31a-1199-1515-772251376cf5"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "c8f3d72c-1ebe-1f4d-d769-381e01d7a941",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "be5645d3-20e6-920e-3277-f8ec64d5564a",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "88767f25-76a1-b067-d090-3fe0d99579c9",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "627fc5a3-6bdf-944e-257f-59b6e1d6747e",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "8f543c17-5399-9e46-3c55-c47e1f87b9b0",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "58aa38ee-a434-cb1d-88f6-2769a3d77386",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "0afd3700-409d-1ded-fbf8-6ffbff02356d",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "bc0b68c3-1765-dd60-e1c8-05ec757951e5",
+                            "flags": 2
+                        }
+                    ]
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "05c88f91-3642-4a66-9dc8-a201b512edd4"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "4fee9b2d-576c-15f8-ee0b-202c1ea7852c",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    2.4319,
+                    103.958,
+                    0.0
+                ],
+                "scale": [
+                    0.9991
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "4fee9b2d-576c-15f8-ee0b-202c1ea7852c"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "1d4e33ab-ec99-2116-1dff-35ae40ac7bf0",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "89e9f1b4-0300-de3c-20b9-c7952439ff6a",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "58aa38ee-a434-cb1d-88f6-2769a3d77386",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "be5645d3-20e6-920e-3277-f8ec64d5564a",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "adf5caec-e155-7cb7-1454-1ce4ec4d7ef4",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "88767f25-76a1-b067-d090-3fe0d99579c9",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "9e5b7cca-f898-f5e7-9ac6-8c3922a12ac8",
+                            "flags": 2
+                        }
+                    ]
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "9cf37c93-f85d-4010-aeae-ea66231e8a4a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e45089a7-5c96-29f0-4836-03440574387d",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    2.4319,
+                    126.1537,
+                    0.0
+                ],
+                "scale": [
+                    0.9991
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "e45089a7-5c96-29f0-4836-03440574387d"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "bc0b68c3-1765-dd60-e1c8-05ec757951e5",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "be5645d3-20e6-920e-3277-f8ec64d5564a",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "88767f25-76a1-b067-d090-3fe0d99579c9",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "8f543c17-5399-9e46-3c55-c47e1f87b9b0",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "627fc5a3-6bdf-944e-257f-59b6e1d6747e",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "58aa38ee-a434-cb1d-88f6-2769a3d77386",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "c8f3d72c-1ebe-1f4d-d769-381e01d7a941",
+                            "flags": 2
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "0afd3700-409d-1ded-fbf8-6ffbff02356d",
+                            "flags": 2
+                        }
+                    ]
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "05c88f91-3642-4a66-9dc8-a201b512edd4"
+            }
         }
     ],
     "default_camera": {
         "position": [
-            4.1094,
-            -0.9444,
-            3.9559
+            77.0104,
+            70.9929,
+            21.7561
         ],
         "rotation": [
-            -45.0883,
+            -8.8059,
             -0.0,
-            76.4383
+            97.7175
         ],
         "fieldOfView": 60.0,
-        "nearPlane": 0.0089,
+        "nearPlane": 0.0087,
         "farPlane": 128.0
     },
-    "grid": {
-        "position": [
-            0.0,
-            0.0,
-            -1.2494
-        ],
-        "scale": [
-            1.0,
-            -1.0,
-            1.0
-        ]
-    },
+    "grid": {},
     "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672"
 }
