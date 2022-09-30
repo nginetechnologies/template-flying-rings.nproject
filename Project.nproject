@@ -13,7 +13,6 @@
     "library_directory": "lib",
     "thumbnail_guid": "f7772bf8-8ee0-a066-023f-fd581ce4a2cb",
     "default_scene": "2e21c31b-c902-4528-82b9-f9eae578710c",
-    "repository": "https://github.com/nginetechnologies/ngine-templates/raw/master/Flying_Rings.nproject",
     "source": "Flying_Rings.nproject",
 	"settings": {
 		"5ED68A2E-C9AF-454F-AD1E-416044E6498A": {
