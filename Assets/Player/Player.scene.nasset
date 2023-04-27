@@ -1,7 +1,6 @@
 {
-    "guid": "ec66ce19-1e67-478b-a8e6-07b9cf74df4c",
+    "guid": "e58370b1-6487-4af4-a509-a8d1350d7366",
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-    "instanceGuid": "274a0aea-93b9-4782-9dab-0b8feae2cd66",
     "2a2bce0a-6314-481b-a5a0-7d01e1c00b35": {
         "radius": 4096.0
     },
@@ -363,6 +362,6 @@
     },
     "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-        "scene": "ec66ce19-1e67-478b-a8e6-07b9cf74df4c"
+        "scene": "e58370b1-6487-4af4-a509-a8d1350d7366"
     }
 }
