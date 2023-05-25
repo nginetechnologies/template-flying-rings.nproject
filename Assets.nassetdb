@@ -141,10 +141,6 @@
         "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Cubemaps/SaschaRef/Prefiltered.tex.nasset"
     },
-    "6f07f2ff-f6c1-49f2-ba3c-7b335b4fad76": {
-        "assetTypeGuid": "dda212f1-b3e6-406b-b801-2079d4a65561",
-        "path": "Assets/Physical Materials/Box.physmat.nasset"
-    },
     "709b14bf-45ad-8c02-42bb-7c6aeb816dda": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Scene/SC_Flying_Rings.scene.nasset/Trim.mesh.nasset/Thumbnails/Trim.mesh.nasset.tex.nasset"
